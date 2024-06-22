@@ -1,0 +1,14 @@
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/bin/Debug/net8.0/baiThiLuongTuanPhi
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/bin/Debug/net8.0/baiThiLuongTuanPhi.deps.json
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/bin/Debug/net8.0/baiThiLuongTuanPhi.runtimeconfig.json
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/bin/Debug/net8.0/baiThiLuongTuanPhi.dll
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/bin/Debug/net8.0/baiThiLuongTuanPhi.pdb
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.AssemblyInfoInputs.cache
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.AssemblyInfo.cs
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.csproj.CoreCompileInputs.cache
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.dll
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/refint/baiThiLuongTuanPhi.dll
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.pdb
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/baiThiLuongTuanPhi.genruntimeconfig.cache
+/Users/macbookprocuaphi/Documents/hocCode/C#/baiThiLuongTuanPhi/baiThiLuongTuanPhi/obj/Debug/net8.0/ref/baiThiLuongTuanPhi.dll
